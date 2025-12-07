@@ -30,5 +30,3 @@ IMG2ASCII/
 3. **Builder Pattern**: Fluent API for creating ASCII converters
 4. **Factory Pattern**: Creating different ASCII ramp types
 5. **Singleton Pattern**: Application configuration management
-
-## Building and Running
