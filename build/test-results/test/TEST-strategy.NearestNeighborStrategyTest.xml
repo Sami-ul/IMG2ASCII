@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="strategy.NearestNeighborStrategyTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-12-07T05:13:46" hostname="TJM" time="0.007">
+  <properties/>
+  <testcase name="testRoundingUp()" classname="strategy.NearestNeighborStrategyTest" time="0.001"/>
+  <testcase name="testRoundingBehavior()" classname="strategy.NearestNeighborStrategyTest" time="0.001"/>
+  <testcase name="testExactCoordinates()" classname="strategy.NearestNeighborStrategyTest" time="0.0"/>
+  <testcase name="testBoundaryChecking_TooHigh()" classname="strategy.NearestNeighborStrategyTest" time="0.001"/>
+  <testcase name="testBoundaryChecking_Negative()" classname="strategy.NearestNeighborStrategyTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

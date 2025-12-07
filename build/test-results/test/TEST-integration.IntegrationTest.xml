@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="integration.IntegrationTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-12-07T05:13:46" hostname="TJM" time="0.015">
+  <properties/>
+  <testcase name="testDependencyInjection()" classname="integration.IntegrationTest" time="0.001"/>
+  <testcase name="testCompleteWorkflow()" classname="integration.IntegrationTest" time="0.013"/>
+  <system-out><![CDATA[[INFO] Starting conversion of 10 rows
+[INFO] Conversion complete! Generated 110 characters
+[INFO] Output lines: 10
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

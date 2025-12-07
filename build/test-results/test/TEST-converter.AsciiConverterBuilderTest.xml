@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="converter.AsciiConverterBuilderTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2025-12-07T05:13:46" hostname="TJM" time="0.058">
+  <properties/>
+  <testcase name="testBuilderWithRampType()" classname="converter.AsciiConverterBuilderTest" time="0.04"/>
+  <testcase name="testBuilderChaining()" classname="converter.AsciiConverterBuilderTest" time="0.005"/>
+  <testcase name="testBuilderWithAllParameters()" classname="converter.AsciiConverterBuilderTest" time="0.001"/>
+  <testcase name="testBuilderWithScale()" classname="converter.AsciiConverterBuilderTest" time="0.002"/>
+  <testcase name="testBuilderWithStrategy()" classname="converter.AsciiConverterBuilderTest" time="0.001"/>
+  <testcase name="testBuilderCreatesConverter()" classname="converter.AsciiConverterBuilderTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

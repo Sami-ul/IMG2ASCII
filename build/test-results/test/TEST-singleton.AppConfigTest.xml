@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="singleton.AppConfigTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2025-12-07T05:13:46" hostname="TJM" time="0.042">
+  <properties/>
+  <testcase name="testSetAndGetStrategy()" classname="singleton.AppConfigTest" time="0.004"/>
+  <testcase name="testInvalidScaleRejected()" classname="singleton.AppConfigTest" time="0.001"/>
+  <testcase name="testDefaultValues()" classname="singleton.AppConfigTest" time="0.001"/>
+  <testcase name="testSetAndGetRamp()" classname="singleton.AppConfigTest" time="0.0"/>
+  <testcase name="testSetAndGetImagePath()" classname="singleton.AppConfigTest" time="0.001"/>
+  <testcase name="testSingletonReturnsInstance()" classname="singleton.AppConfigTest" time="0.001"/>
+  <testcase name="testSaveAndLoad()" classname="singleton.AppConfigTest" time="0.026"/>
+  <testcase name="testSetAndGetScale()" classname="singleton.AppConfigTest" time="0.001"/>
+  <testcase name="testSingletonReturnsSameInstance()" classname="singleton.AppConfigTest" time="0.001"/>
+  <system-out><![CDATA[[INFO] Settings saved successfully
+[INFO] Settings loaded successfully
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
